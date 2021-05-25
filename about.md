@@ -5,11 +5,33 @@ permalink: /about/
 ---
 
 Some information about you!
+# Introduction
+## Profile
+* Residence  
+  + Original : Jiangxi, China
+  + Current  : NC, USA  
+ 
+## Hobbies
+Items             | Level
+----------------- | -----------------
+Swim              | Medium
+Pingpang          | Proficient
+Watching Movie    | Professional
 
-### More Information
+# Background
 
-A place to include any other types of information that you'd like to include about yourself.
+Name              | Field
+----------------- | -----------------
+**BS**            | *Pharmacy*
+**MS**            | *Medicinal Chemistry*
+**Ph.D**            | *Biochemical Engineering*
+
+# Current Study
+  MS of Statistics
+## Classes
+
+![my backyard pool](/Users/li_ji/OneDrive/Pictures/20200319_192806.jpg)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jli232@ncsu.edu](mailto:jli232@ncsu.edu)
