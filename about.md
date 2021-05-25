@@ -28,7 +28,6 @@ Name              | Field
 
 # Current Study
   MS of Statistics
-## Classes
 
 ![my backyard pool](/Users/li_ji/OneDrive/Pictures/20200319_192806.jpg)
 
