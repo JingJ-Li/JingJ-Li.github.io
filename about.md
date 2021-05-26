@@ -10,8 +10,9 @@ permalink: /about/
   + Original : Jiangxi, China
   + Current  : NC, USA  
  
- My home is surrounded by a pool which is beautiful. 
- ![my backyard pool](/Users/li_ji/OneDrive/Pictures/20200319_192806.jpg)
+ My home is surrounded by a pool which is beautiful.  
+ 
+ ![my backyard pool](/Users/li_ji/OneDrive/Pictures/backyard pool.jpg)
  
 ## Hobbies
 Items             | Level
@@ -26,7 +27,7 @@ Name              | Field
 ----------------- | -----------------
 **BS**            | *Pharmacy*
 **MS**            | *Medicinal Chemistry*
-**Ph.D**            | *Biochemical Engineering*
+**Ph.D**          | *Biochemical Engineering*
 
 # Current Study
   MS of Statistics
