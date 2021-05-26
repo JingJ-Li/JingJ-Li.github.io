@@ -12,7 +12,7 @@ permalink: /about/
  
  My home is surrounded by a pool which is beautiful.  
  
- ![my backyard pool](/Users/li_ji/OneDrive/Pictures/backyard pool.jpg)
+ ![my backyard pool](Images/backyard pool.jpg)
  
 ## Hobbies
 Items             | Level
