@@ -21,14 +21,6 @@ Swim              | Medium
 Pingpang          | Proficient
 Watching Movie    | Professional
 
-# Background
-
-Name              | Field
------------------ | -----------------
-**BS**            | *Pharmacy*
-**MS**            | *Medicinal Chemistry*
-**Ph.D**          | *Biochemical Engineering*
-
 # Current Study
   MS of Statistics
 
