@@ -1,4 +1,5 @@
-QAs about R
+QAs about R  
+
 Q:Everyone in this course had some programming experience coming in (due to the prerequisites). What are your thoughts on R vs whatever other software you've used? 
 A: R have a couples of advantages over other softwars:
   (1) R is free. which is more popular among non professional people than some commercial software e.g. SAS. 
