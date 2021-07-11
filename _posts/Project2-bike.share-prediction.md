@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 Title: Project2-bike.share-prediction
 ---
 
