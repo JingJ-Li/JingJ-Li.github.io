@@ -21,5 +21,5 @@ Several interesting topics are answered as below regarding this project.
 * What are yor big take-aways from this project?  
    The major lessons from this project include learn comparing models all based on caret packages, automatic Rmarkdown output of serial data and collaboration with other group members via github.
    
-The link to access to the github page created by John Clements, the first group member, is [here](https://jkclem.github.io/bike-share-prediction/). The link of repo site is [here](https://github.com/jkclem/bike-share-prediction).
+The links to access to the [github page](https://jkclem.github.io/bike-share-prediction/) and [repo site](https://github.com/jkclem/bike-share-prediction) are created by John Clements, the first group member.
 
