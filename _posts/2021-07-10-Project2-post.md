@@ -23,4 +23,3 @@ Several interesting topics are answered as below regarding this project.
    
 The link to access to the github page created by John Clements, the first group member, is [here](https://jkclem.github.io/bike-share-prediction/). The link of repo site is [here](https://github.com/jkclem/bike-share-prediction).
 
-* Written Jingjing Li at 7/10/2021*
